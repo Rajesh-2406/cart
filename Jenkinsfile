@@ -14,7 +14,6 @@
          echo 'unit tests'
         }
       }
-
       stage ('Code Analysis') {
          steps {
             echo 'Code Analysis'
